@@ -48,5 +48,4 @@ Here is an image classifier - which reads an uploaded image to classify as a hot
 
 ## Potential
 * Product #1: With enough training size and compute strength - Anyone can extend this to create the See-food App/ Shazam for food
-* Product #2: Tie food to ingredients and enable AI- "Alexa get ingredients for Risotto for six people on friday" 
-* Product #3: Knowing your allergies an app can point camera to the food and we lookup ingredients and warn the user
+* Product #3: App can indicate food with possible allergens
