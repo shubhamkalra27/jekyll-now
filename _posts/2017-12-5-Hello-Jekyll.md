@@ -1,16 +1,16 @@
 ---
 layout: post
 title: Learning to use Jekyll-now!
+category: blog
 ---
 
 
-# hello world 
-This is a test blog to see - 
-* time taken by Jekyll ang gh-pages to refresh content 
-* the formatting and layout
+#### This is a test blog to see - 
+* Time taken by Jekyll ang gh-pages to refresh content 
+* Formatting and layout of the theme
 * URL mapping 
-* Blogging sectino and Disq comments 
+* Blogs and Disqus comments 
 
 
-## notes to self
+#### Notes to self
 * remember to add a layout snippet on top of each blog page
