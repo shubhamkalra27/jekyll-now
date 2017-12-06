@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I love talking data science and it impacts on consumer products. In my free time, I like to flush out ideas and build machine learning models.
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[iam@shubhamkalra.com](mailto:iam@shubhamkalra.com)
