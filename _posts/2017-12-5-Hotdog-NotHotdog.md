@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Hotdog not Hotdog! 
-Category: Project
+category: Project
+tags: tensorflow machine-learning hotdog-nothotdog
 ---
 
 
