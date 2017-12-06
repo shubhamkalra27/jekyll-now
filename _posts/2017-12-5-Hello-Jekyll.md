@@ -15,4 +15,5 @@ category: blog
 
 
 #### Notes to self
-* remember to add a layout snippet on top of each blog page
+* Remember to add a layout snippet on top of each blog page-  Those variables at the top of the blog post are called front matter
+* [Markdown Editor](https://daringfireball.net/projects/markdown/dingus)
