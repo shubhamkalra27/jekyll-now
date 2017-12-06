@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Hotdog not Hotdog!  <a href="url"><img src="http://www.emoji.co.uk/files/apple-emojis/food-drink-ios/381-hot-dog.png"  height="48" width="48" ></a>
+title: Hotdog not Hotdog! 
 ---
 
 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ACmydtFDTGs/0.jpg)](https://www.youtube.com/watch?v=ACmydtFDTGs)
-Demo - http://nothotdog.pythonanywhere.com/ 
+Demo  <a href="url"><img src="http://www.emoji.co.uk/files/apple-emojis/food-drink-ios/381-hot-dog.png"  height="48" width="48" ></a>  - http://nothotdog.pythonanywhere.com/ 
 
 ## Inspired from Silicon Valley tv show's Entrepreneur in Residence Jiyan Yang's app 
 
