@@ -4,12 +4,14 @@ title: Learning to use Jekyll-now!
 category: blog
 ---
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 #### This is a test blog to see - 
 * Time taken by Jekyll ang gh-pages to refresh content 
 * Formatting and layout of the theme
 * URL mapping 
 * Blogs and Disqus comments 
+
 
 
 #### Notes to self
