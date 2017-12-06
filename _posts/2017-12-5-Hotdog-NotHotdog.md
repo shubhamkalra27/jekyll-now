@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Hotdog not Hotdog!
+title: Hotdog not Hotdog!  <a href="url"><img src="http://www.emoji.co.uk/files/apple-emojis/food-drink-ios/381-hot-dog.png"  height="48" width="48" ></a>
 ---
 
 
 
 # hotdog not hotdog  <a href="url"><img src="http://www.emoji.co.uk/files/apple-emojis/food-drink-ios/381-hot-dog.png"  height="48" width="48" ></a>
 
-## Inspired from Silicon Valley tv show's Entrepreneur in Residence Jiyan Yang's app 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ACmydtFDTGs/0.jpg)](https://www.youtube.com/watch?v=ACmydtFDTGs)
 
+## Inspired from Silicon Valley tv show's Entrepreneur in Residence Jiyan Yang's app 
 
 Here is an image classifier - which reads an uploaded image to classify as a hotdog or a not hotdog 
 
