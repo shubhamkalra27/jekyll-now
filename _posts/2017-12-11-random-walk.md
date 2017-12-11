@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Random Walk! 
+title: visualization Random Walk 
 category: Project
 tags: random-walk javascript-viz fiddle markov-chain 
 ---
@@ -10,9 +10,6 @@ tags: random-walk javascript-viz fiddle markov-chain
 Link to fiddle - Link to fiddle - [http://jsfiddle.net/27thmartian/y16sqcb0/embedded/result/](http://jsfiddle.net/27thmartian/y16sqcb0/embedded/result/)
 
 ![Walker](https://github.com/shubhamkalra27/randomwalk/raw/master/recording%20(2).gif)
-
-
-
 
 
 ### Visualisation Notes:
