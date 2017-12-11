@@ -8,7 +8,7 @@ tags: random-walk javascript-viz fiddle markov-chain
 
 
 
-![Walker](https://github.com/shubhamkalra27/randomwalk/blob/master/recording%20(2).gif)
+![Walker](https://github.com/shubhamkalra27/randomwalk/raw/master/recording%20(2).gif)
 
 
 Link to fiddle - http://jsfiddle.net/27thmartian/y16sqcb0/embedded/result/ 
