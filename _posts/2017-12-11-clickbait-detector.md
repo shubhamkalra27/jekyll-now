@@ -17,7 +17,7 @@ tags: fake-news click-bait clickbait sentence-classifier python machine-learning
 * And another that talks about the psychology of clickbait - [link](https://www.wired.com/2015/12/psychology-of-clickbait/)
 * My personal opinion is - that this form of writing like many other bublbles is just a trend, will die down  soon. Until then - we will keep trying to find a way to seperate genuine news from baity articles. :) 
 
-Link to the demo again - [clickbait detector ]((http://clickbait.pythonanywhere.com/?utm_source=website)
+Link to the demo again - [clickbait detector ](http://clickbait.pythonanywhere.com/?utm_source=website)
 
 #### Science
 * The demo is a text classifier that determines weather the headline is a clickbait. 
