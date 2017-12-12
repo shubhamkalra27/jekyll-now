@@ -1,7 +1,9 @@
 ---
-published: false
+layout: post
+title: Clickbait Detector 
+category: Project
+tags: fake-news click-bait clickbait sentence-classifier python machine-learning
 ---
-## Clickbait Detector
 
 
 ![Clickbait]({{site.baseurl}}//images/retire-on-200-a-month-headline.jpg)
