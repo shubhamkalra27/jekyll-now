@@ -6,7 +6,7 @@ tags: fake-news click-bait clickbait sentence-classifier python machine-learning
 ---
 
 
-![Clickbait]({{site.baseurl}}//images/retire-on-200-a-month-headline.jpg)
+![Clickbait]({{ site.baseurl }}//images/retire-on-200-a-month-headline.jpg)
 
 *demo* - [http://clickbait.pythonanywhere.com/](http://clickbait.pythonanywhere.com/?utm_source=website)   
 
