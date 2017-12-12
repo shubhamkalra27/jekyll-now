@@ -12,16 +12,16 @@ tags: tensorflow machine-learning hotdog-nothotdog
 
 Demo  <a href="url"><img src="http://www.emoji.co.uk/files/apple-emojis/food-drink-ios/381-hot-dog.png"  height="32" width="32" ></a>  -[http://nothotdog.pythonanywhere.com/](http://nothotdog.pythonanywhere.com/)
 
-## Inspired from Silicon Valley tv show's Entrepreneur in Residence Jiyan Yang's app 
+#### Inspired from Silicon Valley tv show's Entrepreneur in Residence Jiyan Yang's app 
 
 Here is an image classifier - which reads an uploaded image to classify as a hotdog or a not hotdog 
 
 
-### Demo - [http://nothotdog.pythonanywhere.com/](http://nothotdog.pythonanywhere.com/)
+#### Demo - [http://nothotdog.pythonanywhere.com/](http://nothotdog.pythonanywhere.com/)
 
  
 
-## Working
+### Working
 
 
 * Thanks to google's codelab demos of tensorflow for image classification [link](https://codelabs.developers.google.com/). 
@@ -49,6 +49,6 @@ Here is an image classifier - which reads an uploaded image to classify as a hot
    * Images extracted from google images using Fatkun Batch Download Image
 
 
-## Potential
+### Potential
 * Product #1: With enough training size and compute strength - Anyone can extend this to create the See-food App/ Shazam for food
 * Product #3: App can indicate food with possible allergens
