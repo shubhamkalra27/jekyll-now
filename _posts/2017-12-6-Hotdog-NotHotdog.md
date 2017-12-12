@@ -6,8 +6,7 @@ tags: tensorflow machine-learning hotdog-nothotdog
 ---
 
 
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ACmydtFDTGs/0.jpg)](https://www.youtube.com/watch?v=ACmydtFDTGs)
+[![Youtube Video](https://github.com/shubhamkalra27/hotdog-not-hotdog/raw/master/0.jpg)](https://www.youtube.com/watch?v=ACmydtFDTGs)
 
 
 Demo  <a href="url"><img src="http://www.emoji.co.uk/files/apple-emojis/food-drink-ios/381-hot-dog.png"  height="32" width="32" ></a>  -[http://nothotdog.pythonanywhere.com/](http://nothotdog.pythonanywhere.com/)
