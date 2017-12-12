@@ -5,7 +5,8 @@ layout: default
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
-
+<span class="post-date">{{ post.date | date_to_string }} {{ page.date | date: '%B %d, %Y' }} </span> 
+      
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="entry">
