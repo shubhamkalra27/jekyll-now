@@ -36,6 +36,6 @@ or a drunk person - who can follow the easy assumptions of -
 will eventually reach home 
 
 
-![Walker](https://github.com/shubhamkalra27/randomwalk/blob/master/walker.gif)
+![Walker](https://github.com/shubhamkalra27/randomwalk/raw/master/walker.gif)
 
 
