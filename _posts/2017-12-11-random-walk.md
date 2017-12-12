@@ -1,6 +1,6 @@
 ---
 layout: post
-title: visualization Random Walk 
+title: Visualizing Random Walk 
 category: Project
 tags: random-walk javascript-viz fiddle markov-chain 
 ---
