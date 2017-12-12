@@ -23,7 +23,7 @@ Detect clickbait with Machine Learning - [http://clickbait.pythonanywhere.com/](
 * The clickbait corpus consists of article headlines from ‘BuzzFeed’, ‘Upworthy’, ‘ViralNova’, ‘Thatscoop’, ‘Scoopwhoop’ and ‘ViralStories’. 
 * The non-clickbait article headlines are collected from ‘WikiNews’, ’New York Times’, ‘The Guardian’, and ‘The Hindu’.
 
-** DEMO ** 
+
 ![Clickbait]({{ site.url }}//images/clickbait-slow.gif) 
 
 
