@@ -9,9 +9,7 @@ tags: fake-news click-bait clickbait sentence-classifier python machine-learning
 ![Clickbait]({{ site.url }}//images/retire-on-200-a-month-headline.jpg)
 
 Detect clickbait with Machine Learning - [http://clickbait.pythonanywhere.com/](http://clickbait.pythonanywhere.com/?utm_source=website)   
-**Result**   
-
-![Clickbait]({{ site.url }}//images/clickbait-result.PNG) 
+![Clickbait]({{ site.url }}//images/clickbait-slow.gif) 
 
 #### What is Clickbait?
 * Clickbait is a fancy headline written to grab attention of generation that needs instant gratification
