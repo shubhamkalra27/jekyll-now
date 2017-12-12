@@ -8,8 +8,7 @@ tags: fake-news click-bait clickbait sentence-classifier python machine-learning
 
 ![Clickbait]({{ site.url }}//images/retire-on-200-a-month-headline.jpg)
 
-Detect clickbait with Machine Learning - [http://clickbait.pythonanywhere.com/](http://clickbait.pythonanywhere.com/?utm_source=website)   
-![Clickbait]({{ site.url }}//images/clickbait-slow.gif) 
+Detect clickbait with Machine Learning - [http://clickbait.pythonanywhere.com/](http://clickbait.pythonanywhere.com/?utm_source=website) 
 
 #### What is Clickbait?
 * Clickbait is a fancy headline written to grab attention of generation that needs instant gratification
@@ -23,6 +22,10 @@ Detect clickbait with Machine Learning - [http://clickbait.pythonanywhere.com/](
 * The demo is a text classifier that determines weather the headline is a clickbait. 
 * The clickbait corpus consists of article headlines from ‘BuzzFeed’, ‘Upworthy’, ‘ViralNova’, ‘Thatscoop’, ‘Scoopwhoop’ and ‘ViralStories’. 
 * The non-clickbait article headlines are collected from ‘WikiNews’, ’New York Times’, ‘The Guardian’, and ‘The Hindu’.
+
+** DEMO ** 
+![Clickbait]({{ site.url }}//images/clickbait-slow.gif) 
+
 
 #### Web Service
 * The idea to have a simple interface to allow people to be aware and rather surprised - to how many news articles they read in a day are based on appealing to your dopamine - Link to the demo again - [clickbait detector ](http://clickbait.pythonanywhere.com/?utm_source=website)
