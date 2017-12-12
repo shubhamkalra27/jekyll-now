@@ -33,7 +33,7 @@ tags: fake-news click-bait clickbait sentence-classifier python machine-learning
 
 #### My thanks to 
 * Training data has been used from this [study](http://cse.iitkgp.ac.in/~abhijnan/papers/chakraborty_clickbait_asonam16.pdf) - data posted [here](https://github.com/bhargaviparanjape/clickbait/tree/master/dataset)
-* Good people at [pythonanywhere.com](pythonanywhere.com)
+* Good people at [pythonanywhere.com](https://www.pythonanywhere.com)
 * Machine learning tutorials by Jose Marcial Portilla on Udemy. 
  
 
