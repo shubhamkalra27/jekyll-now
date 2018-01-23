@@ -16,7 +16,7 @@ Detect clickbait with Machine Learning - [http://clickbait.pythonanywhere.com/](
 * Here is an interesting blog on why clickbait is so popular - [link](https://blog.kissmetrics.com/why-clickbait-works/)
 * And another that talks about the psychology of clickbait - [link](https://www.wired.com/2015/12/psychology-of-clickbait/)
 * My personal opinion is - that this form of writing like many other bublbles is just a trend, will die down  soon. Until then - we will keep trying to find a way to seperate genuine news from baity articles. :) 
-
+* Facebook's effort to curb clickbait - [News Feed FYI:FB](https://newsroom.fb.com/news/2017/05/news-feed-fyi-new-updates-to-reduce-clickbait-headlines/)
 
 #### Science
 * The demo is a text classifier that determines weather the headline is a clickbait. 
